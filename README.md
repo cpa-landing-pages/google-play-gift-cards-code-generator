@@ -1,4 +1,4 @@
-### Google Play Cards
+### Google Play Gift Cards - Code Generator
 
 #### About
 ---
